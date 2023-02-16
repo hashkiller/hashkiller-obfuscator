@@ -1,3 +1,5 @@
+<img src="https://visitor-badge.glitch.me/badge?page_id=hashkiller.hashkiller-obfuscator&left_text=Visitors&right_color=purple">
+
 # 💻 Hashkiller Obfuscator 🔏
 Hashkiller Obfuscator is a python based obfuscator that uses advanced techniques to hide your code and make it difficult to be understood by others. 
 
